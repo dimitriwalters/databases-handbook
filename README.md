@@ -1,4 +1,3 @@
-database-handbook
-=================
+# database-handbook
 
-Handbook for database management
+Handbook about database management.
