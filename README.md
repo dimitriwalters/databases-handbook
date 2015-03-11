@@ -4,11 +4,15 @@ Handbook about database management.
 
 ## Table of Contents
 - [database](#database)
+- [join](#join)
 - [primary key](#primary-key)
 - [table](#table)
 
 ### database
 An organized collection of data.
+
+### join
+A combining of rows from two or more tables.
 
 ### primary key
 A column designated to uniquely identify all rows.
