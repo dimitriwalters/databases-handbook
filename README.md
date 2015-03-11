@@ -1,6 +1,6 @@
 # databases-handbook
 
-Handbook about database management.
+A reference of important database terms.
 
 ## Table of Contents
 - [database](#database)
