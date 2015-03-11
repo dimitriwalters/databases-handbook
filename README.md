@@ -7,7 +7,7 @@ Handbook about database management.
 - [table](#table)
 
 ### database
-An organized collection of data
+An organized collection of data.
 
 ## table
 A set of data elements using a model of columns and row. The columns provide the structure which the rows are composed from.
