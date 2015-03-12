@@ -4,12 +4,16 @@ A reference of important database terms.
 
 ## Table of Contents
 - [database](#database)
+- [foreign key](#foreign-key)
 - [join](#join)
 - [primary key](#primary-key)
 - [table](#table)
 
 ### database
 An organized collection of data.
+
+### foreign key
+A column that references the primary key of another table.
 
 ### join
 A combining of rows from two or more tables.
