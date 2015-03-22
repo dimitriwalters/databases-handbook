@@ -10,6 +10,7 @@ A reference of important database terms.
 - [query](#query)
 - [table](#table)
 - [transaction](#transaction)
+- [unique key](#unique-key)
 
 ### database
 An organized collection of data.
@@ -31,3 +32,6 @@ A set of data elements using a model of columns and row. The columns provide the
 
 ### transaction
 A series of data manipulation treated as a whole.
+
+### unique key
+A subset of columns that are guaranteed to be unique for each row.
